@@ -75,7 +75,7 @@
   "dependencies": {
     "download": "^7.1.0",
     "node-fetch": "^2.3.0",
-    "semver": "^5.6.0",
+    "semver": "^7.5.2",
     "ts-node": "^8.0.3",
     "typescript": "^3.3.4000"
   }
