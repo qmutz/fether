@@ -65,11 +65,11 @@
     "react-dom": "^16.8.3",
     "react-final-form": "^3.6.4",
     "react-final-form-listeners": "^1.0.1",
-    "react-i18next": "^10.2.0",
+    "react-i18next": "^11.8.13",
     "react-markdown": "^3.3.4",
     "react-resize-detector": "^3.0.1",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "^2.1.3",
+    "react-scripts": "^5.0.0",
     "recompose": "^0.27.1",
     "rxjs": "^6.2.0",
     "semver": "^5.6.0"
